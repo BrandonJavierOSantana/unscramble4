@@ -1,21 +1,7 @@
-Unscramble app
-=================================
+Programación Nativa Para Móviles    20251-850MA    9:00am - 10:00am   L-V
+--------------------------------------------------------------------------
+**Alumnos:**
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+*Sarah Lizeth Mar Lopez            21071615     L21071625@cdmadero.tecnm.mx*
+***
+*Brandon Javier Orduño Santana     21070425     L21070425@cdmadero.tecnm.mx*
